@@ -1,9 +1,23 @@
+---
 title: Clinic99.com
-email: hello@clinic99.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Clinic99 is an open project to build a national sexual health clinic electronic patient record.
-baseurl: ""
-url: "https://clinic99.com"
-
-# Build settings
-theme: minima
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty

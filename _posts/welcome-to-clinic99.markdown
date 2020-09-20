@@ -2,6 +2,7 @@
 title: Welcome to Clinic99!
 date: 2020-09-20 14:08:13 Z
 layout: post
+image: https://picsum.photos/800/300
 categories: 
 ---
 

@@ -14,10 +14,17 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: "/blog/:title/"
 - scope:
     path: ''
     type: pages
   values:
     layout: page
 permalink: pretty
+minima:
+  date_format: "%-d %b %Y"
+include:
+- _headers
+theme: minima
+plugins:
+- jekyll-seo-tag

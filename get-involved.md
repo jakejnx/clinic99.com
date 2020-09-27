@@ -10,3 +10,5 @@ The development of our software is driven by the views of experts in the sexual 
 We are looking to our friends/professionals in the Sexual Health, Contraception and HIV community to help us prioritise the features of our new Sexual Health National EPR.
 
 <a href="https://roadmap.clinic99.com/" target="_blank"><button class="w3-button c99bg w3-large w3-round-xxlarge w3-padding-large">Tell us or vote for what's Important?</button></a>
+<h3>Become a Contributor</h3>
+What we are asking of our clinical expert friends;

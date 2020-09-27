@@ -4,13 +4,12 @@ permalink: "/blog/"
 layout: page
 ---
 
-This is something new which is coming soon.
+Welcome to the Clinic99 blog where we will post the latest news and events related to our new sexual health, contraception and HIV clinic software.
 
-<div class="content">
 <ul>
-{% assign blog1 = site.posts | sort: 'date' | reverse %}
-{% for post in blog1 %}
-<li><a href="{{ post.url }}"> {{ post.title }}</a> - {{ post.categories }} - {{ post.date | date: "%B %Y"}} </li>
-{% endfor %}
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>  - {{ post.date | date: "%d %b, %Y" }}
+    </li> <img src="/assets/img/blog/{{ post.image }}" alt="" width="100" height="100">
+  {% endfor %}
 </ul>
-</div>

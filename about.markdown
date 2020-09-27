@@ -17,6 +17,19 @@ A welcome paragraph
 <h2>Our Team</h2>
 Contributors:
 
+<p>&nbsp;</p>
+<h3>Clinical</h3>
+<ul>
+<li>? Darren</li>
+<li>? Zoe</li>
+<li>? Emma</li>
+<li>? Martin</li>
+<li>? Becky</li>
+<li>? Jen</li>
+<li>? Sandra</li>
+<li>? Tony</li>
+</ul>
+
 <h3>Technical</h3>
 
 <div class="w3-container">
@@ -34,15 +47,3 @@ Contributors:
     <button class="w3-button w3-block w3-dark-grey">Jake's Website</button>
   </div>
 </div>
-<p>&nbsp;</p>
-<h3>Clinical</h3>
-<ul>
-<li>? Darren</li>
-<li>? Zoe</li>
-<li>? Emma</li>
-<li>? Martin</li>
-<li>? Becky</li>
-<li>? Jen</li>
-<li>? Sandra</li>
-<li>? Tony</li>
-</ul>

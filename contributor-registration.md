@@ -6,7 +6,7 @@ title: Contributor Registration
 <p>We are asking clinical experts in sexual health, cotnraception and HIV to take part in the discussion about what we need to include in the app.  We will also need some time to help test drive the new app.  Volunteering does not tie you to comit time, but we will be in touch to ask for help.  We expect that any discussion would take place over video call in future.</p>
 <h3>Technical</h3>
 <p>If you would like to learn new skills, or work with other technical occolleagues to help build a real world application we would very much like to hear from you.  Once you have completed the form we will be in touch shortly to find out more.</p>
-<form class="w3-container" data-netlify-recaptcha="true" data-netlify="true" action="/registration-success">
+<form name="contributor-registration" method="POST" class="w3-container" data-netlify-recaptcha="true" data-netlify="true" action="/registration-success">
   <p>
   <label>Role you are applying for?</label>
   <input class="w3-radio" type="radio" name="role" value="clinical" checked>

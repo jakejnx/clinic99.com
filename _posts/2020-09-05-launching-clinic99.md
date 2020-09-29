@@ -1,11 +1,11 @@
 ---
 title: Launching Clinic99
-date: 2020-09-27 00:00:00 Z
+date: 2020-09-05 09:00:00 Z
 categories:
-- company
 - news
 layout: post
-image: hi.jpg
+image: welcometoclinic99.jpg
+desc: Welcome to our project to build the best sexual health software on the planet.
 ---
 
 <h2>Well Hello There!</h2>

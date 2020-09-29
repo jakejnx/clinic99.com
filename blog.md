@@ -9,9 +9,10 @@ Welcome to the Clinic99 blog where we will post the latest news and events relat
   {% for post in site.posts %}
 <div class="w3-card-4 w3-ul"><a href="{{ post.url }}">
     <li class="w3-bar">
-      <img src="/assets/img/blog/{{ post.image }}" alt=""  class="w3-bar-item w3-circle" style="width:100px; height: 85px;">
+      <img src="/assets/img/blog/thumbs/{{ post.image }}" alt=""  class="w3-bar-item w3-circle" style="width:100px; height: 85px;">
       <div class="w3-bar-item">
-        <span style="font-size: 1.5rem; color: #000;">{{ post.title }}</span><br>
-        <span style="color: #000;">{{ post.date | date: "%d %b, %Y" }}</span>
+        <span style="font-size: 1.4rem; color: #000;">{{ post.title }}</span><br>
+        <span style="color:#000;">{{ post.desc }}</span><br>
+        {{ post.date | date: "%d %b, %Y" }}
       </div></li></a></div>
   {% endfor %}

@@ -33,8 +33,8 @@ Contributors:
 <h3>Technical</h3>
 
 
-<div class="w3-cell-row">
-<div class="w3-container w3-cell"><div class="w3-container">
+<div class="w3-container">
+<div class="w3-container w3-half"><div class="w3-container">
 
   <div class="w3-card-4">
     <header class="w3-container w3-light-grey">
@@ -46,10 +46,10 @@ Contributors:
       <img src="/assets/contributors/jake-jenkins.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:120px">
       <p>Jake has a nursing background as a sexual health, contraception and HIV Nurse Practitioner.  Additionally, Jake has been changing career over the past 5 years to become a software developer in the NHS.  Jake specialises in understanding the business need and building software that is beautiful and easy to use.</p><br>
     </div>
-    <a href="https://jakejnx.com" alt="Jake Jns Software Development"><button class="w3-button w3-block w3-dark-grey">Jake's Website</button></a>
+    <a href="https://jakejnx.com" alt="Jake Jns Software Development"><button class="w3-button w3-block w3-deep-orange">Jake's Website</button></a>
   </div>
 </div></div>
-<div class="w3-container w3-cell" style="width:50%;"><div class="w3-container">
+<div class="w3-container w3-half"><div class="w3-container">
 
   <div class="w3-card-4">
     <header class="w3-container w3-light-grey">
@@ -59,9 +59,9 @@ Contributors:
       <p>Systems Lead</p>
       <hr>
       <img src="/assets/contributors/shaun-desmond.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:120px">
-      <p>Shaun is... He has worked in the NHS IT team for 3.5 years.</p><br>
+      <p>Shaun is... He has worked in the NHS IT team for 3.5 years.</p><br><p>&nbsp;</p><p>&nbsp;</p>
     </div>
-    <a href="https://www.linkedin.com/in/shaun-desmond-a5204a29/" alt="Shaun Desmond Linkedin Profile"><button class="w3-button w3-block w3-dark-grey">Shaun's Linked.in Profile</button></a>
+    <a href="https://www.linkedin.com/in/shaun-desmond-a5204a29/" alt="Shaun Desmond Linkedin Profile"><button class="w3-button w3-block w3-deep-orange">Shaun's Linked.in Profile</button></a>
   </div>
 </div></div>
 </div>

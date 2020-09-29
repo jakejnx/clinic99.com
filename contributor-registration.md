@@ -27,9 +27,9 @@ title: Contributor Registration
    <p> <label>Bio</label>
   <textarea name="bio" class="w3-input" rows="4" placeholder="eg: John has worked as a sexual health nurse in London for 8 years..." cols="50">
 </textarea></p>
-<p><input class="w3-check" type="checkbox" checked="checked">
+<p><input name="websitefeature" class="w3-check" type="checkbox" checked="checked">
 <label>I wish to be featured on the website.</label></p>
-<p><input class="w3-check" type="checkbox" checked="checked">
+<p><input name="int-property-disclaimer" class="w3-check" type="checkbox" checked="checked">
 <label>I understand that contribuiting to the project is voluntary and does not result in payment or ownership of the system</label></p>
 <p><button type="submit" class="w3-button w3-large w3-round w3-deep-orange">Register</button></p>
 
